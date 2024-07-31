@@ -74,4 +74,4 @@ Cross-validation confirmed the robustness of our model, with an accuracy score o
 # Insights:
 The duration of calls was a significant predictor of term deposit subscriptions. Clients tended to subscribe after longer conversations, suggesting the importance of engaging clients effectively during calls.
 Previous attempts at contact also played a role, indicating that repeated contact can be fruitful in convincing clients to subscribe.
-Multicollinearity among some input features was observed, potentially affecting model performance. Consideration should be given to addressing this issue in future iterations.
+Multicollinearity among some input features was observed, potentially affecting model performance.
